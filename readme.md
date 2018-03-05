@@ -9,16 +9,15 @@
 
 ### 科学の下图方法 & 实用的浏览器扩展
 
-- [osu!my download](https://greasyfork.org/zh-CN/scripts/3916-osu-my-download) - 基于 **Tampermonkey**，为谱面页添加镜像网站的下载地址
-- [osu!next concept](https://userstyles.org/styles/123254) - 基于 **Stylish**，在旧版官网上应用新版官网的样式，美化效果 10 分
+- [osu!my download](https://greasyfork.org/zh-CN/scripts/3916-osu-my-download) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，为谱面页添加镜像网站的下载地址
+- [osu!next concept](https://userstyles.org/styles/123254) - 基于 **[Stylish](https://userstyles.org)**，在旧版官网上应用新版官网的样式，美化效果 10 分
 - [osu!helper](https://github.com/Tyrrrz/OsuHelper) - 一个可以推荐 pp 图给玩家的软件（需要 api key）
-- [OSU!TP](https://chrome.google.com/webstore/detail/osutp/cjdcemlbechjblaeknimeoljkafkecpi) - Chrome 扩展，在官网个人页面显示详尽的数据
 
 ## 网站
 
 ### 镜像网站
 
-- http://inso.link
+- https://inso.link
 国内镜像，复制粘贴官网谱面链接到 inso 网页上即可下载谱面
 上线时间：2016年9月 - 现在
   - 介绍：[中国大陆的下图网站 比血猫还要快要全的inso link](http://tieba.baidu.com/p/4799105665)
@@ -27,8 +26,14 @@
 游戏内谱面下载工具 + sayobot（QQ 机器人，查询玩家信息）
 [下图工具介绍](https://tieba.baidu.com/p/5563391193)
 
-- http://bloodcat.com/osu/
+- https://bloodcat.com/osu/
 血猫，韩国镜像站，下载速度很快，需要输入验证码
+
+- https://osu.uu.gl
+韩国镜像站，只有 Rank 图
+
+- https://osu.hexide.com
+国外镜像，以 api 提供谱面搜索和下载服务
 
 - `http://osu.mengsky.net/`
 曾经的国内镜像，
@@ -91,11 +96,15 @@
   - [离线安装包](https://www.osupink.org/link.php?version=latest)
   - [安装包下载工具](https://github.com/osupink/osu-download/releases)
 
+### 全曲包 & 分流
+
+- [全曲包 - 官网](https://osu.ppy.sh/beatmaps/packs)
+- [全曲包 - Torrents](http://pandotracker.me/torrents.html)
+- [OSU!全歌曲包(Beatmap packs) - osu 吧](https://tieba.baidu.com/p/5436038419) - 吧友整理的全谱面包（百度云）
+
 ### 谱面包
 
-- [官方曲包](https://osu.ppy.sh/beatmaps/packs)
-- [全曲包 Torrents](http://pandotracker.me/torrents.html)
-- [OSU!全歌曲包(Beatmap packs)](https://tieba.baidu.com/p/5436038419) - 吧友整理的全谱面包（百度云）
+- [Vocaloid 谱面包](https://deardrops.github.io/osu/) - 百度云，2015年9月更新
 
 ## 官方链接
 
