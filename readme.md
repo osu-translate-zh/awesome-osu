@@ -4,7 +4,7 @@
 
 ### 机器人
 
-- [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) - pp 查询、谱面推荐机器人，参见 [食用指南](http://deardrops.github.io/2017/02/26/TillerinoBot/)
+- [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) - pp 查询、谱面推荐机器人，参见 [食用指南](https://deardrops.github.io/post/tillerino-bot/)
 - [白菜 bot](https://tieba.baidu.com/p/5392336191) - QQ 机器人，各大 MP 群已实装，用于查询玩家信息，成绩等等
 - [kjBot](https://github.com/kj415j45/kjBot) - QQ 机器人，提供多样化的功能。包括 osu!
 - [Sayobot](http://sayobot.cn) - QQ 机器人，查询玩家信息
@@ -13,8 +13,16 @@
 
 - [osu! my download](https://greasyfork.org/zh-CN/scripts/3916-osu-my-download) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，为谱面页添加镜像网站的下载地址
 - [Sayo Download](https://sayobot.cn/sayobot.user.js) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，让谱面下载通过 Sayo镜像 完成。
-- [osu!next concept](https://userstyles.org/styles/123254) - 基于 **[Stylish](https://userstyles.org)**，在旧版官网上应用新版官网的样式，美化效果 10 分 （由于 Stylish 存在隐私问题，建议使用其第三方版本 **[Stylus](https://github.com/openstyles/stylus)**）
+- [osu!next concept](https://userstyles.org/styles/123254) - 基于 **[Stylus](https://github.com/openstyles/stylus)**，在旧版官网上应用新版官网的样式，美化效果 10 分
 - [osu!helper](https://github.com/Tyrrrz/OsuHelper) - 一个可以推荐 pp 图给玩家的软件（需要 api key）
+- [osu助手（下图器）](https://tieba.baidu.com/p/6061835790) - 吧友开发的下图器，支持谱面筛选和批量下图
+
+### 播放器
+
+- [Milkitic 的 osu player](https://github.com/Milkitic/Osu-Player) - 非常好看的 osu! 播放器，享受你本地的 osu! 曲库
+  - 介绍：[【Osu player】新一代Osu播放器](https://tieba.baidu.com/p/6046630988)
+- [Troogle 的 osu player](https://tieba.baidu.com/p/2694900780) - 于 2013 年 11 月发布
+- [dgsrz 的 osu player](https://tieba.baidu.com/p/2602038368) - 于 2013 年 9 月发布
 
 ## 网站
 
@@ -26,10 +34,10 @@
   - 介绍：[中国大陆的下图网站 比血猫还要快要全的inso link](http://tieba.baidu.com/p/4799105665)
 
 - https://sayobot.cn/
-游戏内谱面下载工具
+sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 - https://bloodcat.com/osu/
-血猫，韩国镜像站，下载速度很快，需要输入验证码
+血猫，韩国镜像站，国内的下载速度很快
 
 - https://osu.uu.gl/
 韩国镜像站，只有 Rank 图
@@ -68,6 +76,11 @@
 
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/) - 生成 osu!next 风格的签名档
 - [osu!game Achievements / Medals](http://haitai.jp/) - 所有隐藏成就的解锁条件
+
+### MP 相关
+- [osu!OpenRooms](https://osu.webfreak.org/) - osu! MP助手，可以创建自动轮换房主、定时开始游戏的房间，节省 MP 的等待时间
+  - 介绍：[【Bot】osu!OpenRooms 简单介绍（提高MP效率）](https://tieba.baidu.com/p/6013251513)
+- [osuStuff Play](https://play.osustuff.org/) - osu! 版吃鸡游戏，一局游戏中进行多轮积分制比赛，淘汰选手，最后选出 Top1
 
 ## 国内论坛
 
@@ -119,7 +132,7 @@
 - [osu!live Twitch](http://www.twitch.tv/osulive) - 每年举办的各种官方比赛都会在这里直播
 - [osu!live YouTuBe](https://www.youtube.com/channel/UC04QGgpwL5b53HbMCi4TB7A) - 往年比赛的存档
 
-## 其他项目
+## osu! 客户端 & 服务器
 
 - [McOsu](http://store.steampowered.com/app/607260/McOsu/) - stream 上基于 osu! 二次开发的客户端
   - 介绍：[【可曾见过如此炫酷的Osu!】McOsu介绍](https://tieba.baidu.com/p/4715040646)
