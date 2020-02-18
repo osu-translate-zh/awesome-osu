@@ -108,9 +108,14 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - [官方下载页面](https://osu.ppy.sh/home/download)
   - [在线安装包](https://m1.ppy.sh/release/osu!install.exe)
   - [离线安装包](https://m2.ppy.sh/r/osu!install.exe)
+  
+```
 - [osu!pink](https://github.com/osupink) 提供
-  - [离线安装包](https://www.osupink.org/link.php?version=latest)
-  - [安装包下载工具](https://github.com/osupink/osu-download/releases)
+- [离线安装包](https://www.osupink.org/link.php?version=latest)
+- [安装包下载工具](https://github.com/osupink/osu-download/releases) 
+```
+曾经的镜像站点，目前已挂
+
 
 ### 全曲包 & 分流
 
