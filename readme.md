@@ -61,7 +61,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - https://ameobea.me/osutrack/ - 个人数据查询网站，用图表形式展示玩家的成长曲线
 - http://osuskills.tk/ - osu! 个人实力评测，分 8 项能力进行评分
 - http://osustats.ppy.sh/ - 查询玩家谱面排名最高的成绩
-- https://github.com/OsuSync/Sync - 安装[IngameOverlay](https://github.com/OsuSync/IngameOverlay)和[RealTimePPDisplayer](https://github.com/OsuSync/RealTimePPDisplayer)（使用[Oppai-ng](https://github.com/Francesco149/oppai-ng)）后可以在osu!中显示pp
+- https://github.com/OsuSync/Sync - [懒人包](https://github.com/poly000/SyncLazyPack/releases)
 
 ### 谱面查询
 
