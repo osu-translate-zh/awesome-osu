@@ -137,6 +137,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - [McOsu](http://store.steampowered.com/app/607260/McOsu/) - stream 上基于 osu! 二次开发的客户端
   - 介绍：[【可曾见过如此炫酷的Osu!】McOsu介绍](https://tieba.baidu.com/p/4715040646)
 - [osu!ripple](https://ripple.moe/) - osu! 私服，独立的游戏排名
+- [ppy.sb](https://osu.ppy.sb/) - osu! 国服，独立的游戏排名
 - [opsu](https://itdelatrisu.github.io/opsu/) - 用 Java 写的跨平台 osu 客户端，支持 Windows，OS X，Linux 和安卓平台
 
 更多内容请参阅：[Project - osu!wiki](https://osu.ppy.sh/help/wiki/Projects)
