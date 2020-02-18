@@ -61,6 +61,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - https://ameobea.me/osutrack/ - 个人数据查询网站，用图表形式展示玩家的成长曲线
 - http://osuskills.tk/ - osu! 个人实力评测，分 8 项能力进行评分
 - http://osustats.ppy.sh/ - 查询玩家谱面排名最高的成绩
+- https://github.com/OsuSync/Sync - [懒人包](https://github.com/poly000/Sync/releases/latest)，在游戏中显示pp（输入`o i`）
 
 ### 谱面查询
 
@@ -107,9 +108,14 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - [官方下载页面](https://osu.ppy.sh/home/download)
   - [在线安装包](https://m1.ppy.sh/release/osu!install.exe)
   - [离线安装包](https://m2.ppy.sh/r/osu!install.exe)
+  
+```
 - [osu!pink](https://github.com/osupink) 提供
-  - [离线安装包](https://www.osupink.org/link.php?version=latest)
-  - [安装包下载工具](https://github.com/osupink/osu-download/releases)
+- [离线安装包](https://www.osupink.org/link.php?version=latest)
+- [安装包下载工具](https://github.com/osupink/osu-download/releases) 
+```
+曾经的镜像站点，目前已挂
+
 
 ### 全曲包 & 分流
 
@@ -137,6 +143,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - [McOsu](http://store.steampowered.com/app/607260/McOsu/) - stream 上基于 osu! 二次开发的客户端
   - 介绍：[【可曾见过如此炫酷的Osu!】McOsu介绍](https://tieba.baidu.com/p/4715040646)
 - [osu!ripple](https://ripple.moe/) - osu! 私服，独立的游戏排名
+- [ppy.sb](https://osu.ppy.sb/) - osu! 国服，独立的游戏排名
 - [opsu](https://itdelatrisu.github.io/opsu/) - 用 Java 写的跨平台 osu 客户端，支持 Windows，OS X，Linux 和安卓平台
 
 更多内容请参阅：[Project - osu!wiki](https://osu.ppy.sh/help/wiki/Projects)
