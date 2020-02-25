@@ -7,7 +7,7 @@
 - [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) - pp 查询、谱面推荐机器人，参见 [食用指南](https://deardrops.github.io/post/tillerino-bot/)
 - [白菜 bot](https://tieba.baidu.com/p/5392336191) - QQ 机器人，各大 MP 群已实装，用于查询玩家信息，成绩等等
 - [kjBot](https://github.com/kj415j45/kjBot) - QQ 机器人，提供多样化的功能。包括 osu!
-- [Sayobot](http://sayobot.cn) - QQ 机器人，查询玩家信息
+- `Sayobot` - QQ 机器人，查询玩家信息。目前已挂
 
 ### 科学の下图方法 & 实用的浏览器扩展
 
@@ -39,11 +39,11 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - https://bloodcat.com/osu/
 血猫，韩国镜像站，国内的下载速度很快
 
-- https://osu.uu.gl/
-韩国镜像站，只有 Rank 图
+- `https://osu.uu.gl/`
+韩国镜像站，只有 Rank 图。目前已挂
 
-- https://osu.hexide.com/
-国外镜像，以 api 提供谱面搜索和下载服务
+- `https://osu.hexide.com/`
+国外镜像，以 api 提供谱面搜索和下载服务。目前已挂
 
 - `http://osu.mengsky.net/`
 曾经的国内镜像，
@@ -143,6 +143,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - [McOsu](http://store.steampowered.com/app/607260/McOsu/) - stream 上基于 osu! 二次开发的客户端
   - 介绍：[【可曾见过如此炫酷的Osu!】McOsu介绍](https://tieba.baidu.com/p/4715040646)
 - [osu!ripple](https://ripple.moe/) - osu! 私服，独立的游戏排名
+- [osu!Akatsuki](https://akatsuki.pw/) - osu! 私服，独立的游戏排名，另有Relax模式的排名系统
 - [ppy.sb](https://osu.ppy.sb/) - osu! 国服，独立的游戏排名
 - [opsu](https://itdelatrisu.github.io/opsu/) - 用 Java 写的跨平台 osu 客户端，支持 Windows，OS X，Linux 和安卓平台
 
