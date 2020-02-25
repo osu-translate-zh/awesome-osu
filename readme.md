@@ -26,6 +26,10 @@
 
 ## 网站
 
+### 加速线路
+
+- https://www.rainng.com/osu-download-booster/ 反向代理以加速。
+
 ### 镜像网站
 
 - https://inso.link/
