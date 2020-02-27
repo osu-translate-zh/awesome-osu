@@ -28,7 +28,7 @@
 
 ### 加速线路
 
-- https://www.rainng.com/osu-download-booster/ 反向代理以加速。
+- [osu-download-booster](https://greasyfork.org/zh-CN/scripts/395607-osu-download-booster) 反向代理以加速。需要油猴。
 
 ### 镜像网站
 
