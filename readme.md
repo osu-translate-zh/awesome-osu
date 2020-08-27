@@ -6,7 +6,6 @@
 
 - [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) - pp 查询、谱面推荐机器人，参见 [食用指南](https://deardrops.github.io/post/tillerino-bot/)
 - [白菜 bot](https://tieba.baidu.com/p/5392336191) - QQ 机器人，各大 MP 群已实装，用于查询玩家信息，成绩等等
-- [kjBot](https://github.com/kj415j45/kjBot) - QQ 机器人，提供多样化的功能。包括 osu!
 - [Sayobot](https://sayobot.cn) - QQ 机器人，查询玩家信息。
 
 ### 科学の下图方法 & 实用的浏览器扩展
