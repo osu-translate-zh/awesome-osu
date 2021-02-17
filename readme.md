@@ -138,7 +138,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 - [osu!lazer](https://github.com/ppy/osu) - 新版客户端，目前正在开发中
 - [osu!web](https://osu.ppy.sh/home) - 新版官网，目前正在开发中
-- [osu!wiki](https://github.com/ppy/osu-wiki) - 由 Markdown 书写的 wiki，托管在 Github 上，由社区维护
+- [osu!wiki](https://osu.ppy.sh/wiki/zh/Main_Page) - 由 Markdown 书写的 wiki，托管在 [Github](https://github.com/ppy/osu-wiki) 上，由社区维护
 - [osu!next](http://osunext.tumblr.com/) - 介绍 osu!next 计划，可以看到炫酷无比的新版网站和客户端设计
 - [osu! on OS X](http://osuosx.tumblr.com/) - osu! mac 版本的开发计划
 - [osu!api](https://osu.ppy.sh/api/) - osu! 的官方 API
