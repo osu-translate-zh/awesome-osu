@@ -10,6 +10,7 @@
 
 ### 科学の下图方法 & 实用的浏览器扩展
 
+- [osu-download-booster](https://www.rainng.com/osu-download-booster/) 反向代理以加速。需要Tampermonkey。
 - [osu! my download](https://greasyfork.org/zh-CN/scripts/3916-osu-my-download) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，为谱面页添加镜像网站的下载地址
 - [Sayo Download](https://sayobot.cn/sayobot.user.js) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，让谱面下载通过 Sayo镜像 完成。
 - [osu!next concept](https://userstyles.org/styles/123254) - 基于 **[Stylus](https://github.com/openstyles/stylus)**，在旧版官网上应用新版官网的样式，美化效果 10 分
@@ -25,9 +26,9 @@
 
 ## 网站
 
-### 加速线路
+### osu! wiki
 
-- [osu-download-booster](https://greasyfork.org/zh-CN/scripts/395607-osu-download-booster) 反向代理以加速。需要油猴。
+- [osu! - 萌娘百科](https://zh.moegirl.org.cn/Osu!) - 含大量资源整理，正确性可能需要问大佬（内容不一定保持最新）。
 
 ### 镜像网站
 
