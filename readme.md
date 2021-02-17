@@ -65,7 +65,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - https://ameobea.me/osutrack/ - 个人数据查询网站，用图表形式展示玩家的成长曲线
 - http://osuskills.tk/ - osu! 个人实力评测，分 8 项能力进行评分
 - http://osustats.ppy.sh/ - 查询玩家谱面排名最高的成绩
-- https://github.com/OsuSync/Sync - [懒人包](https://github.com/poly000/Sync/releases/latest)，在游戏中显示pp（输入`o i`）
+- https://github.com/OsuSync/Sync - [懒人包](https://github.com/poly000/Sync/releases/latest)（已经一年未更新），在游戏中显示pp（输入`o i`）
 
 ### 谱面查询
 
