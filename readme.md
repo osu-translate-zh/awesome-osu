@@ -1,5 +1,30 @@
 # 你所不知道的 osu!
 
+## 目录
+
+* [工具](#工具)
+  * [机器人](#机器人)
+  * [科学の下图方法 &amp; 实用的浏览器扩展](#科学の下图方法--实用的浏览器扩展)
+  * [播放器](#播放器)
+* [网站](#网站)
+  * [osu\! wiki](#osu-wiki)
+  * [镜像网站](#镜像网站)
+  * [玩家水平 &amp; pp 相关](#玩家水平--pp-相关)
+  * [谱面查询](#谱面查询)
+  * [皮肤下载 &amp; 制作](#皮肤下载--制作)
+  * [其他](#其他)
+  * [MP 相关](#mp-相关)
+* [国内论坛](#国内论坛)
+  * [贴吧](#贴吧)
+  * [国外论坛](#国外论坛)
+* [游戏下载](#游戏下载)
+  * [osu\! 客户端](#osu-客户端)
+  * [全曲包 &amp; 分流](#全曲包--分流)
+  * [谱面包](#谱面包)
+* [官方链接](#官方链接)
+* [osu\! 客户端 &amp; 服务器](#osu-客户端--服务器)
+
+
 ## 工具
 
 ### 机器人
@@ -10,6 +35,7 @@
 
 ### 科学の下图方法 & 实用的浏览器扩展
 
+- [osu-download-booster](https://www.rainng.com/osu-download-booster/) 反向代理以加速。需要Tampermonkey。
 - [osu! my download](https://greasyfork.org/zh-CN/scripts/3916-osu-my-download) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，为谱面页添加镜像网站的下载地址
 - [Sayo Download](https://sayobot.cn/sayobot.user.js) - 基于 **[Tampermonkey](http://tampermonkey.net/)**，让谱面下载通过 Sayo镜像 完成。
 - [osu!next concept](https://userstyles.org/styles/123254) - 基于 **[Stylus](https://github.com/openstyles/stylus)**，在旧版官网上应用新版官网的样式，美化效果 10 分
@@ -24,10 +50,6 @@
 - [dgsrz 的 osu player](https://tieba.baidu.com/p/2602038368) - 于 2013 年 9 月发布
 
 ## 网站
-
-### 加速线路
-
-- [osu-download-booster](https://greasyfork.org/zh-CN/scripts/395607-osu-download-booster) 反向代理以加速。需要油猴。
 
 ### 镜像网站
 
@@ -64,7 +86,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - https://ameobea.me/osutrack/ - 个人数据查询网站，用图表形式展示玩家的成长曲线
 - http://osuskills.tk/ - osu! 个人实力评测，分 8 项能力进行评分
 - http://osustats.ppy.sh/ - 查询玩家谱面排名最高的成绩
-- https://github.com/OsuSync/Sync - [懒人包](https://github.com/poly000/Sync/releases/latest)，在游戏中显示pp（输入`o i`）
+- https://github.com/OsuSync/Sync - [懒人包 已经一年未更新](https://github.com/poly000/Sync/releases/latest)，在游戏中显示pp（输入`o i`）
 
 ### 谱面查询
 
@@ -78,6 +100,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 ### 其他
 
+- [osu! - 萌娘百科](https://zh.moegirl.org.cn/Osu!) - 含大量资源整理，正确性可能需要问大佬（内容不一定保持最新）。
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/) - 生成 osu!next 风格的签名档
 - [osu!game Achievements / Medals](http://haitai.jp/) - 所有隐藏成就的解锁条件
 
@@ -110,10 +133,9 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 - [官方下载页面](https://osu.ppy.sh/home/download)
   - [在线安装包](https://m1.ppy.sh/release/osu!install.exe)
-
-` [离线安装包](https://m2.ppy.sh/r/osu!install.exe)`
+  - 离线安装包 `https://m2.ppy.sh/r/osu!install.exe` - 目前官网不提供离线安装包。
  
- - [绿色版](https://txy1.sayobot.cn/osu.zip)
+- [绿色版](https://txy1.sayobot.cn/osu.zip)
   
 ```
 - [osu!pink](https://github.com/osupink) 提供
@@ -137,7 +159,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 - [osu!lazer](https://github.com/ppy/osu) - 新版客户端，目前正在开发中
 - [osu!web](https://osu.ppy.sh/home) - 新版官网，目前正在开发中
-- [osu!wiki](https://github.com/ppy/osu-wiki) - 由 Markdown 书写的 wiki，托管在 Github 上，由社区维护
+- [osu!wiki](https://osu.ppy.sh/wiki/zh/Main_Page) - 由 Markdown 书写的 wiki，托管在 [Github](https://github.com/ppy/osu-wiki) 上，由社区维护
 - [osu!next](http://osunext.tumblr.com/) - 介绍 osu!next 计划，可以看到炫酷无比的新版网站和客户端设计
 - [osu! on OS X](http://osuosx.tumblr.com/) - osu! mac 版本的开发计划
 - [osu!api](https://osu.ppy.sh/api/) - osu! 的官方 API
