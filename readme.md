@@ -62,7 +62,7 @@
 sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 - https://chimu.moe/beatmaps
-前血猫，Chimu韩国镜像站，国内的下载速度很快
+前血猫，Chimu 韩国镜像站，国内的下载速度很快
 
 - `https://osu.uu.gl/`
 韩国镜像站，只有 Rank 图。目前已挂
@@ -86,8 +86,8 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - https://ameobea.me/osutrack/ - 个人数据查询网站，用图表形式展示玩家的成长曲线
 - http://osuskills.tk/ - osu! 个人实力评测，分 8 项能力进行评分
 - http://osustats.ppy.sh/ - 查询玩家谱面排名最高的成绩
-- https://github.com/OsuSync/Sync - [懒人包 已经一年未更新](https://github.com/poly000/Sync/releases/latest)，在游戏中显示pp（输入`o i`）
-- https://exsper.github.io/osumania-ppcal/#/ - 国人开发的在线新版osu!mania 谱面pp计算器
+- https://github.com/OsuSync/Sync - [懒人包 已经一年未更新](https://github.com/poly000/Sync/releases/latest)，在游戏中显示 pp（输入`o i`）
+- https://exsper.github.io/osumania-ppcal/#/ - 国人开发的在线新版 osu!mania 谱面 pp 计算器
 
 ### 谱面查询
 
@@ -114,7 +114,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 ## 国内论坛
 
 ### 国内论坛
-- [你好osu](https://bbs.hiosu.com) - 国人架设基于discuz的osu!论坛
+- [你好osu](https://bbs.hiosu.com) - 国人架设基于 discuz 的 osu! 论坛
 
 ### 贴吧
 
@@ -179,7 +179,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 - [osu!Akatsuki](https://akatsuki.pw/) - osu! 私服，独立的游戏排名，另有Relax模式的排名系统
 - [ppy.sb](https://osu.ppy.sb/) - osu! 国服，独立的游戏排名
 - [opsu](https://itdelatrisu.github.io/opsu/) - 用 Java 写的跨平台 osu 客户端，支持 Windows，OS X，Linux 和安卓平台
-- [mfosu](https://dl.hiosu.com/) - 基于osu!lazer的第三方汉化客户端，独有的mvis播放器及其他本地化功能
+- [mfosu](https://dl.hiosu.com/) - 基于 osu!lazer 的第三方汉化客户端，独有的 mvis 播放器及其他本地化功能
 
 更多内容请参阅：[Project - osu!wiki](https://osu.ppy.sh/help/wiki/Projects)
 
