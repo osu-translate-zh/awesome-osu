@@ -96,7 +96,7 @@ sayobot 国内的第三方 osu! 镜像站，拥有超过 2000GB 的谱面
 
 ### 皮肤下载 & 制作
 
-- http://osuskins.info/ - 第三方的皮肤分享网站（年久失修）
+- [osuskins.org](https://osuskins.org/) - 收录 4000+ 个 osu! 皮肤，按 o!rdr 实际使用量排序，标注作者，下载链接定期检查失效，无广告跳转、无需登录。
 - https://osuskinner.com/ - osu! 皮肤在线生成工具
 - https://osk.soloop.ooo/ - 国人架设的皮肤站
 
